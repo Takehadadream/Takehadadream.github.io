@@ -1,0 +1,155 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: auto ;
+    width: auto;
+}
+
+.Menu-Container{
+     background-color: rgb(64, 61, 61) ;
+     width: 100%;
+     height :100px;
+}
+
+.ul-Menu {  
+    height :100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.li {
+    list-style-type: none ;
+    padding: 30px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    font-size: 50;
+}
+
+.container-content{
+    background-color: 
+    rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container-content{
+    background-color: rgb(0, 0, 0);
+}
+
+.img-content{
+    width: 80%;
+    height: 80%;
+
+}
+
+.container-footer{
+    height: 100;
+    background-color: rgb(17, 131, 119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(250, 245, 245);
+}
+
+.a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+.Menu-Container-porto{
+    background-color: rgb(64, 61, 61) ;
+    width: 100%;
+    height :50px;
+}
+
+.li-porto {
+    list-style-type: none ;
+    padding: 12.5px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    font-size: 25;
+}
+
+.container-footer-porto{
+    height: 50;
+    background-color: rgb(17, 131, 119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-footer-porto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(250, 245, 245);
+    font-size: 15;
+}
+
+
+.Menu-Container-about{
+    background-color: rgb(64, 61, 61) ;
+    width: 100%;
+    height :50px;
+}
+
+.li-about {
+    list-style-type: none ;
+    padding: 12.5px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    font-size: 25;
+}
+
+.container-footer-about{
+    height: 50;
+    background-color: rgb(17, 131, 119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-footer-about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(250, 245, 245);
+    font-size: 15;
+}
+
+.container-content {
+    background: #000000;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(157, 209, 85, 0.1);
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
